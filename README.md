@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2017
 
 ### Student Name:  
-(First and Last Name)
+Natalie Marcelo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I was able to create my own expense calculator in order to solve Income Tax calculations.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. One concept I learned was how to properly code a clear form statement.
+2. Another concept I learned was how to do percentage calculations for each tax bracket.
+3. Lastly, I learned how to use else if statements. 
 
